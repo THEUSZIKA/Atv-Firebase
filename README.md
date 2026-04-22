@@ -45,7 +45,7 @@ Aplicação web utilizando Firebase para autenticação e controle de acesso bas
 
 ##  Funcionalidades
 
-* Cadastro e login com Firebase Auth
+* Cadastro e login com Firebase 
 * Armazenamento do cargo do usuário
 * Interface separada para **admin** e **user**
 * Controle de acesso baseado em regras do Firebase
