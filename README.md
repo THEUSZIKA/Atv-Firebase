@@ -6,7 +6,7 @@ Aplicação web utilizando Firebase para autenticação e controle de acesso bas
 
 ---
 
-## 🗄️ Estrutura do Banco (Realtime Database)
+##  Estrutura do Banco (Realtime Database)
 
 ```json
 {
